@@ -16,6 +16,6 @@ function Selection({ applyColor }) {
       <h2 className="subheading">Selection</h2>
     </div>
   );
-
+}
 
 export default Selection;
